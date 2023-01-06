@@ -1,10 +1,10 @@
-<p align="center">
+
 <a href="[https://github.com/vickyun](https://github.com/vickyun)">
     <img src="https://readme-typing-svg.demolab.com/?font=Comfortaa&size=18&duration=2000&color=1E2CCD&pause=100&multiline=true&width=500&height=80&lines=Viktoriia+Untilova;Data%20Scientist+|+PhD%20in%20Physics+|+;AI+|+Computer+Vision+|+Analytics+|" alt="Typing SVG" />
 </a>
 <br/>
 
- 
+
 <a href="https://www.linkedin.com/in/untilovaviktoriia/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
